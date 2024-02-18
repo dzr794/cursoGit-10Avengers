@@ -2,3 +2,4 @@
 
 * DrDoom
 * Joker
+* Dr. Zapata
